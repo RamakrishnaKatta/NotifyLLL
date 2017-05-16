@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "209661705600",
+    "firebase_url": "https://lllnotify-faeea.firebaseio.com",
+    "project_id": "lllnotify-faeea",
+    "storage_bucket": "lllnotify-faeea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209661705600:android:3790963d04c287cb",
+        "android_client_info": {
+          "package_name": "com.example.anila.notifylll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209661705600-p70qtael06av7gtve7mk61eivbcf5tc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAKTabatoINXBajQUfumPQhVGghWWV0Is"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

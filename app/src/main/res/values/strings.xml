@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotifyLLL</string>
+    <string name="FCM_PREF">com.example.anila.notifylll.fcm_pref</string>
+    <string name="FCM_TOKEN">com.example.anila.notifylll.fcm_token</string>
+</resources>
